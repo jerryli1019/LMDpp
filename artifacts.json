@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/jerryli1019/LMDpp/tree/main",
+    "project-repository": "https://github.com/weiyueli7/SON",
+    "project-website-url": "https://weiyueli7.github.io/SON/",
+    "project-website-code": "https://github.com/weiyueli7/SON/tree/website"
 }
